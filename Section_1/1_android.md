@@ -2,4 +2,6 @@
 October  2003, Palo Alto, California<br><br>
 *Andy Rubin, Rich Miner, Nick Sears and Chris White* founded Android Inc. And if you are wondering why it was named 'Android', it's because of Andy Rubin's love for robots, that his co-workers at Apple named him *Android* and that nickname eventually became the official name of the **Android Operating System**. <br><br>
 But this 'Android' was far from the Android that we know today, that you are probably reading this article on. The early intentions of the **Android Inc.** was to create an Operating System for Digital Cameras and about 5 months later they diverted their efforts and pitched Android as a handset Operating System that would rival Symbian and the Windows Mobile Platform(R.I.P).<br> 
-![Sooner prototype phone running pre-release version of android](https://github.com/koderunnerspublic/Android-Basics-MOOC/blob/master/Section_1/Assets/phone.jpg)
+![](https://github.com/koderunnerspublic/Android-Basics-MOOC/blob/master/Section_1/Assets/phone.jpg "Sooner prototype phone running pre-release version of android")<br>
+
+Later in July 2005, Google acquired **Android Inc** for around $50 million with Andy Rubin leading the Android Team. At Google the team designed a mobile device platform powered by the LINUX kernel.
