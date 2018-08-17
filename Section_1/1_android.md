@@ -1,12 +1,12 @@
 # Android
 October  2003, Palo Alto, California<br><br>
 *Andy Rubin, Rich Miner, Nick Sears and Chris White* founded Android Inc. And if you are wondering why it was named 'Android', it's because of Andy Rubin's love for robots, that his co-workers at Apple named him *Android* and that nickname eventually became the official name of the **Android Operating System**. <br><br>
-But this 'Android' was far from the Android that we know today, that you are probably reading this article on. The early intentions of the **Android Inc.** was to create an Operating System for Digital Cameras and about 5 months later they diverted their efforts and pitched Android as a handset Operating System that would rival Symbian(R.I.P) and the Windows Mobile Platform(R.I.P).<br> 
+But this 'Android' was far from the Android that we know today, that you are probably reading this article on. The early intentions of the **Android Inc.** was to create an Operating System for Digital Cameras and about 5 months later they diverted their efforts and pitched Android as a handset Operating System that would rival Symbian(R.I.P) and the Windows Mobile Platform(R.I.P).<br><br> 
 ![](https://github.com/koderunnerspublic/Android-Basics-MOOC/blob/master/Section_1/Assets/phone.jpg)<br>
-*Fig- Sooner Prototype phone running pre-release version of Android (Source-Wikipedia).*<br>
+*Fig- Sooner Prototype phone running pre-release version of Android (Source-Wikipedia).*<br><br>
 Later in July 2005, Google acquired **Android Inc** for around $50 million with Andy Rubin leading the Android Team. At Google the team designed a mobile device platform powered by the LINUX kernel. Google marketed the platform to handset makers and carriers on the promise of providing a flexible, upgradeable system. Google had "lined up a series of hardware components and software partners and signaled to carriers that it was open to various degrees of cooperation". As you can see, the early prototype had a close resemblance to a **Blackberry** with QWERTY keypad and all. But with the launch of the original **iPhone**, Google along with other smartphone manufacturers like Nokia and Blackberry had to shift their focus towards touch-screens.<br><br>
 On November 5, 2007, the Open Handset Alliance, a consortium of technology companies including Google, device manufacturers such as HTC, Motorola and Samsung, wireless carriers such as Sprint and T-Mobile, and chipset makers such as Qualcomm and Texas Instruments, unveiled itself, with a goal to develop "the first truly open and comprehensive platform for mobile devices".<br><br>
 The initial versions of android were named **alpha** and **beta**. Starting with the alphabet "C" they started using dessert names to code-name their successive versions of Android along with their version numbers. Here's a list of all android versions along with their global distributions till date.<br><br>
-![](https://github.com/koderunnerspublic/Android-Basics-MOOC/blob/master/Section_1/Assets/chart.png)<br>*Source-Wikipedia*
+![](https://github.com/koderunnerspublic/Android-Basics-MOOC/blob/master/Section_1/Assets/chart.png)<br>*Source-Wikipedia*<br><br>
 
 
